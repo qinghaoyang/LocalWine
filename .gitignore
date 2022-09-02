@@ -1,0 +1,10 @@
+venv/
+env/
+data/
+
+*.pyc
+.python-version
+__pycache__/
+.DS_Store
+
+fill_db.py
